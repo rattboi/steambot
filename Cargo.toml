@@ -1,0 +1,8 @@
+[package]
+
+name = "steambot"
+version = "0.0.1"
+authors = [ "Bradon Kanyid <bradon@kanyid.org>" ]
+
+[dependencies]
+irc = "0.11.0"
